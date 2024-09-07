@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="29d3190e-bcfe-4e32-a817-a6de9bc2c169" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../AI/GenAI/ChatPDF/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AI/GenAI/ChatPDF/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AI/GenAI/LLMProject/faiss.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AI/GenAI/LLMProject/llm_jn.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AI/GenAI/LLMProject/movies.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AI/GenAI/LLMProject/nvidia_news.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AI/GenAI/LLMProject/retrieval.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AI/GenAI/LLMProject/retrieval2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AI/GenAI/LLMProject/sample.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AI/GenAI/LLMProject/text_loaders_splitters.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AI/GenAI/LLMProject/vector_index.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AI/GenAI/cuisine/cuisine.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AI/GenAI/cuisine/langChain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AI/GenAI/cuisine/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AI/GenAI/genai.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AI/GenAI/learn-LangGraph/learn.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AI/GenAI/learn-Langchain/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AI/GenAI/learn-Langchain/learn.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AI/GenAI/learn-Langchain/pdfQuery/pdfQuery.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AI/GenAI/pdf-chat/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AI/GenAI/pdf-chat/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AI/GenAI/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AI/nn_from_scratch.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DjangoProjects/djangoProject/templates/layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DjangoProjects/djangoProject/tweet/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DjangoProjects/djangoProject/tweet/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DjangoProjects/drinks/drinks/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DjangoProjects/drinks/drinks/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DjangoProjects/drinks/drinks/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DjangoProjects/drinks/drinks/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DjangoProjects/mysite/Acornfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DjangoProjects/mysite/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DjangoProjects/mysite/api/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DjangoProjects/mysite/api/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DjangoProjects/mysite/db-script.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DjangoProjects/note/backend/api/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DjangoProjects/note/backend/backend/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FlaskProjects/RESTful-API-library/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FlaskProjects/RESTful-API-library/db_details.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FlaskProjects/libarary-JWT/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FlaskProjects/url-shortner/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FlaskProjects/url-shortner/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FlaskProjects/url-shortner/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FlaskProjects/url-shortner/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FlaskProjects/url-shortner/urls.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Jupyter_notebook/Data Notebook/blackFriday.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Jupyter_notebook/Data Notebook/coaster.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Jupyter_notebook/Data Notebook/csv_files/Most Streamed Spotify Songs 2024.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Jupyter_notebook/Data Notebook/csv_files/Salary_Data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Jupyter_notebook/Data Notebook/csv_files/Zomatodataset/zomato.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Jupyter_notebook/Data Notebook/csv_files/coaster_db.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Jupyter_notebook/Data Notebook/flight price prediction.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Jupyter_notebook/Data Notebook/salary_predict.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Jupyter_notebook/Data Notebook/spotify.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Jupyter_notebook/ml.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ML/google/callback.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ML/google/cv_with_tf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ML/ml.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Notion/napi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Notion/notion_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Notion/notionapi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../School/Class11/assignemtn_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../School/class12/practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../School/project.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../arduino/digital.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../arduino/led.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../gpt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../instagram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../midi/midifile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../my_lib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../my_lib/ds_lib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../openCV/dragDrop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../openCV/face.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../openCV/learnCV.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../openCV/learning_openCV.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../openCV/opencv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../openCV/virtualMouse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ascii_art.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sleepTime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoom/join_samy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoom/join_windows.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.gradle/6.7/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.gradle/6.7/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.gradle/6.7/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.gradle/configuration-cache/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Drink-Water.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Drink-Water.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Graph/graph_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Graph/graph_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Graph/new.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Graph/new.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Gui/TO-DO/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Gui/TO-DO/data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Gui/TO-DO/data_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Gui/TO-DO/data_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Gui/TO-DO/loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Gui/TO-DO/loop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Gui/TO-DO/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Gui/TO-DO/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Gui/TO-DO/todo.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Gui/TO-DO/todo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Gui/color-Tk.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Gui/color-Tk.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Gui/cv.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Gui/cv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Gui/gui_basic.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Gui/gui_basic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Gui/pracTK.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Gui/pracTK.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IntroOOP.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../IntroOOP.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Jupyter_notebook/.ipynb_checkpoints/Advanced Python - solution-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Jupyter_notebook/.ipynb_checkpoints/Advanced Python - solution-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Jupyter_notebook/.ipynb_checkpoints/practice-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Jupyter_notebook/.ipynb_checkpoints/practice-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Jupyter_notebook/Advanced Python - solution.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Jupyter_notebook/Advanced Python - solution.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Jupyter_notebook/Advanced Python.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Jupyter_notebook/Advanced Python.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Jupyter_notebook/CV Notebook/.ipynb_checkpoints/Computer Vision-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Jupyter_notebook/CV Notebook/.ipynb_checkpoints/Computer Vision-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Jupyter_notebook/CV Notebook/.ipynb_checkpoints/temp-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Jupyter_notebook/CV Notebook/.ipynb_checkpoints/temp-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Jupyter_notebook/CV Notebook/Computer Vision.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Jupyter_notebook/CV Notebook/Computer Vision.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Jupyter_notebook/CV Notebook/Images_man.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../Jupyter_notebook/CV Notebook/Images_man.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Jupyter_notebook/CV Notebook/flute_img.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../../Jupyter_notebook/CV Notebook/flute_img.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Jupyter_notebook/CV Notebook/original_man.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../Jupyter_notebook/CV Notebook/original_man.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Jupyter_notebook/CV Notebook/resized_Flute_img.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Jupyter_notebook/CV Notebook/resized_Flute_img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Jupyter_notebook/CV Notebook/resized_man.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../Jupyter_notebook/CV Notebook/resized_man.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Jupyter_notebook/CV Notebook/temp.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Jupyter_notebook/CV Notebook/temp.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Jupyter_notebook/Class11/Class XI Basic_3 Operators.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Jupyter_notebook/Class11/Class XI Basic_3 Operators.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Jupyter_notebook/Class11/Class XI Basics_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Jupyter_notebook/Class11/Class XI Basics_1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Jupyter_notebook/Class11/Class XI Basics_2 Input_Output_Import.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Jupyter_notebook/Class11/Class XI Basics_2 Input_Output_Import.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Jupyter_notebook/Class11/Class XI Programs on Conditional statement.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Jupyter_notebook/Class11/Class XI Programs on Conditional statement.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Jupyter_notebook/Data Notebook/.ipynb_checkpoints/data-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Jupyter_notebook/Data Notebook/JaipurFinalCleanData.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../Jupyter_notebook/Data Notebook/csv_files/JaipurFinalCleanData.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Jupyter_notebook/Data Notebook/data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Jupyter_notebook/Data Notebook/data.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Jupyter_notebook/Data Notebook/jaipur_scatter_plot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Jupyter_notebook/NLP Worksheet.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Jupyter_notebook/NLP Worksheet.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Jupyter_notebook/citizen_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../Jupyter_notebook/citizen_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Jupyter_notebook/prac-CV.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Jupyter_notebook/prac-CV.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Jupyter_notebook/practice.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Jupyter_notebook/practice.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Notification.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Notification.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NumPy/numpy.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../NumPy/LearningNumpy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pandas/pandasTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pandas/learningPandas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RomanNumber.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../School/AI/AI-PortFolio-PY.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../School/AI/AI-PortFolio-PY.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../School/AI/AI_practical.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../School/AI/AI_practical.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../School/AI/AI_python.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../School/AI/AI_python.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../School/AI/Test.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../School/AI/Test.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../School/Class11/if_ELSE.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../School/Class11/if_ELSE.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../School/Class11/if_else.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../School/Class11/if_else.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Speaker.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Speaker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Timer.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Timer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Web/Test.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web/Test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Web/learningFlask.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web/learningFlask.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Web/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../basic.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../basic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../example.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../fiitjeeJoin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../fiitjeeJoin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../generate-iconset-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../generate-iconset-1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mp4-mp3_converter.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../mp4-mp3_converter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pdf_file_reduce.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pyPDF.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../pyPDF.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sapti.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../whatsapp.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../whatsapp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ytAPI.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../ytAPI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zoom/join_terminal.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../zoom/join_terminal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zoom/win_join.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../zoom/win_join.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zoom/zoom_join_meeting.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../zoom/zoom_join_meeting.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/vinayakchandra/pdf-reduce-CLI.git",
+    "accountId": "46b3233d-0dff-4de5-ac6e-bf48714d57ff"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2ljUNmONLBO2NMEVJWf9T8bk8uQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+    <option name="sortByType" value="true" />
+    <option name="sortKey" value="BY_TYPE" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.updates",
+    "show.migrate.to.gradle.popup": "false",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "PLAIN_TEXT"
+    ]
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.142" />
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.142" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29d3190e-bcfe-4e32-a817-a6de9bc2c169" name="Changes" comment="" />
+      <created>1725692942223</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725692942223</updated>
+      <workItem from="1725692943701" duration="809000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
