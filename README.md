@@ -5,3 +5,5 @@
 - Make sure to install `Ghostscript` before running the python program.
 
 `python pdf_file_reduce.py --n /path/to/file.pdf`
+
+To see help: `python pdf_file_reduce.py --help`
