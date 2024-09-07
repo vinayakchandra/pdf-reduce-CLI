@@ -2,8 +2,8 @@ import argparse
 import os
 import pprint
 
-parser = argparse.ArgumentParser(description='Description: Reduce PDF size of written')
-parser.add_argument("--n", type=str, help="Name of the pdf file to be reduced", required=True, )
+parser = argparse.ArgumentParser(description='Description: Reduce PDF size')
+parser.add_argument("--n", type=str, help="path of the pdf file to be reduced", required=True, )
 
 args = parser.parse_args()
 pprint.pprint(vars(args))
